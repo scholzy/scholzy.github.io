@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+/* CSS styling for scholz.moe / scholzy.github.io.
+ * Almost all of this is taken from https://github.com/edwardtufte/tufte-css,
+ * which is released under the MIT license.
+ */
+
 html { font-size: 15px; }
 
 body { width: 87.5%;
